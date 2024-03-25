@@ -9,3 +9,6 @@ export default defineConfig({
     open: true
   }
 })
+
+
+// The vite.config.js file is primarily for configuring the Vite build tool to work with my React project, and it doesn't have a direct relationship with the SVG files. The decision to include or exclude the SVG files would depend more on visual design choices and whether they contribute to the overall presentation and functionality of my portfolio.
