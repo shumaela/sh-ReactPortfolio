@@ -1,18 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 ## User Story
 
 ```md
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
+```
+
+## Description 
+
+```md
+A React Portfolio to share current/future projects with potential employers and with fellow developers to collaborate on future projects.
 ```
 
 ## Acceptance Criteria
@@ -44,3 +41,13 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+## Screenshot
+
+[React-Portfolio](https://github.com/shumaela/sh-ReactPortfolio/assets/147661185/e976bed4-e0b1-46fc-94ed-dcd8d12d33e8)
+
+## Links
+
+[Netlify-Deploy-Link](https://main--classy-smakager-e56fb9.netlify.app/)
+
+[Github-Repo](https://github.com/shumaela/sh-ReactPortfolio)
